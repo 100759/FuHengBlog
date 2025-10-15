@@ -1,5 +1,5 @@
 notion:
-  databaseId: df7fb0e4e0114268b973f9d3e9a39982
+  databaseId: 28d2d8331ef08177bb45e3bbe31f4dcc
   filterProp: Status
   filterValue:
     - Finished
@@ -8,5 +8,6 @@ notion:
   publishedValue: Published
 markdown:
   homePath: ./
+
 
   
