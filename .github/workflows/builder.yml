@@ -61,7 +61,7 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - uses: actions/cache@v2
+      - uses: actions/cache@v4
         if: steps.push_changes.outputs.push_success == 'true'
         with:
           path: /tmp/hugo_cache
