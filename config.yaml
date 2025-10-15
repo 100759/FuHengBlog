@@ -2,7 +2,8 @@ assetDir: "assets"
 baseurl: https://blog.env.wtf/
 languageCode: en-us
 theme: ["hugo-theme-stack", "notion-site-theme"]
-paginate: 7
+pagination:
+    pagerSize: 7
 title: nonacosa's blog
 
 languages:
